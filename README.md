@@ -1,3 +1,5 @@
+NOTE: These are just snippets and act as simple templates to build on.
+
 == Search_FortiCloud_AssetManagement.py script == 
 
 Utilizes FortiCloud Asset Mangement API to search for FortiGate devices based on description name.
